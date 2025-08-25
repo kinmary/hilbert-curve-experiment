@@ -1,10 +1,10 @@
 # Hilbert Curve Experiment
 
-<p align="center">
-	<img src="static/hilber-curve-experiment-vid.gif" alt="Hilbert Curve Demo" width="500" />
-</p>
-
 A 3D visualization experiment using Three.js to render and animate a Hilbert curve in real time.
+
+<p align="center">
+	<img src="static/hilber-curve-experiment-vid.gif" alt="Hilbert Curve Demo" width="450" />
+</p>
 
 ## Features
 - Interactive 3D Hilbert curve rendered with Three.js
